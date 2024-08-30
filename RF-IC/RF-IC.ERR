@@ -1,19 +1,5 @@
-Altium Designer System: Library Component Rule Check
-PCB File : RF-IC
-Date     : 12-08-2024
-Time     : 15:23:01
+Component Rule Check Report for : C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\LIB\RF-IC\RF-IC.SchLib
 
 
-Name                Warnings
+Name                Errors
 ------------------------------------------------------------------
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(-1.1mm,0mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(-1.1mm,-1.1mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(0mm,-1.1mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(1.1mm,-1.1mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(1.1mm,1.1mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(0mm,1.1mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(-1.1mm,1.1mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(0mm,0mm) on Multi-Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Pad Name On Pads Pad Free-33(0mm,0mm) on Top Layer And Pad Free-33(1.1mm,0mm) on Multi-Layer
-RHB32_3P45X3P45_TEX      Duplicate Primitives: Track (-3.226mm,3.368mm)(-3.139mm,3.454mm) on Top Overlay And Track (-3.226mm,3.368mm)(-3.139mm,3.454mm) on Top Overlay
-
