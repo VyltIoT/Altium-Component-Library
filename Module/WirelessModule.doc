@@ -1,0 +1,460 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Schematic Library Report
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<font face="Arial" size="2">
+<h1>
+Schematic Library Report
+</h1>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Name
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\LIB\Module\WirelessModule.SchLib
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Date/Time
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+03 September 2024 06:45:05
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Size
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+12288
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Components
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Component List
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+EC200U
+</font>
+</td>
+</tr>
+</table>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzFF52.wmf" width="80" height="256">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+EC200U
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LTE CAT1 MODEM 144 SMD
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Kind
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Standard
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Aliases
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Component has no aliases
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Designator
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+M?
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Parameters
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+4
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pins
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+143
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Models
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Parameters
+</h5>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Name
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Value
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Type
+</b>
+</font>
+</td>
+<td align="center" valign="top">
+<font face="Arial" size="2">
+<b>
+Visible
+</b>
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Value
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+*
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer 1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Quectel
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Manufacturer Part Number 1
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+*
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<font face="Arial" size="2">
+Comment
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+STRING
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+False
+</font>
+</td>
+</tr>
+</table>
+<h5>
+Models
+</h5>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="QjzBB.wmf" width="256" height="234">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Name
+</b>
+</font>
+</td>
+<td valign="top">
+<h3>
+<font face="Arial" size="2">
+EC200U
+</font>
+</h3>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Model Type
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+Footprint
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+LTE CAT1 MODEM 144 SMD
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1421.26mil x 1303.15mil
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+144
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+153
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+&nbsp;
+<p>
+</font>
+</body>
+</html>
