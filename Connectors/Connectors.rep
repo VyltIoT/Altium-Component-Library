@@ -1,0 +1,15 @@
+CSV text has been written to file : Connectors.csv
+
+Library Component Count : 8
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+18650_SMD_BATT_HOLDER18650_SMD_BATT_HOLDER
+6X2_1P27_MH_TH      
+CR1220-BH           BATTERY HOLDER COIN 12.5MM SMD
+KLDX-0202-AC        CONN PWR JACK 2X5.5MM KINKED PIN
+RJ45                CONN MOD JACK 8P8C R/A UNSHLD
+Terminal_Block_3Pin_2.54PTERMINAL BLOCK 3 PIN 2.54 PITCH
+Terminal_Block_4Pin_2.54PTERMINAL BLOCK 4 PIN 2.54 PITCH
+Terminal_Block_6Pin_5.08P6PINS TERMINAL BLOCK 5.08 PITCH
