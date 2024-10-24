@@ -1,0 +1,59 @@
+Component Name : ESP32-WROOM-32E
+
+Part Count : 2
+
+Part : M?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : M?
+     Pins - (Normal) : 47
+          GND            1              Passive
+          3V3            2              Passive
+          EN             3              Passive
+          SENSOR_VP      4              Passive
+          SENSOR_VN      5              Passive
+          IO34           6              Passive
+          IO35           7              Passive
+          IO32           8              Passive
+          IO33           9              Passive
+          IO25           10             Passive
+          IO26           11             Passive
+          IO27           12             Passive
+          IO14           13             Passive
+          IO12 (MTDI)    14             Passive
+          GND            15             Passive
+          IO13           16             Passive
+          NC             17             Passive
+          NC             18             Passive
+          NC             19             Passive
+          NC             20             Passive
+          NC             21             Passive
+          NC             22             Passive
+          IO15 (MTDO)    23             Passive
+          IO2            24             Passive
+          IO0            25             Passive
+          IO4            26             Passive
+          IO16           27             Passive
+          IO17           28             Passive
+          IO5            29             Passive
+          IO18           30             Passive
+          IO19           31             Passive
+          NC             32             Passive
+          IO21           33             Passive
+          RXD0           34             Passive
+          TXD0           35             Passive
+          IO22           36             Passive
+          IO23           37             Passive
+          GND            38             Passive
+          GND            39             Passive
+          GND            40             Passive
+          GND            41             Passive
+          GND            42             Passive
+          GND            43             Passive
+          GND            44             Passive
+          GND            45             Passive
+          GND            46             Passive
+          GND            47             Passive
+          Hidden Pins : 
+

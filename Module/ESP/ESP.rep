@@ -1,0 +1,9 @@
+CSV text has been written to file : ESP.csv
+
+Library Component Count : 2
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+ESP32-WROOM-32E     ESP32-WROOM-32E Module
+ESP32_MINI_1        ESP32_C3_MINI_1 Module
