@@ -1,0 +1,12 @@
+CSV text has been written to file : PinHeader.csv
+
+Library Component Count : 5
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+20PX2R_M            Connector Header Surface Mount 20 position 0.100" (2.54mm)
+2PX1R               2PX1R
+40PX2R_M_1          Berg Connector Header Through Hole  40 Position 0.100" (2.54mm)
+6PX1R_F             6PX1R Female Header
+6PX1R_M             6PX1R Male Header
