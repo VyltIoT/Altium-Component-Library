@@ -1,19 +1,14 @@
 Component Name : RP2350B
 
-Part Count : 2
+Part Count : 3
 
 Part : U?
      Pins - (Normal) : 0
           Hidden Pins : 
 
-Part : U?
-     Pins - (Normal) : 81
-          QSPI_IOVDD     69             Passive
-          RUN            35             Passive
-          XIN            30             Passive
-          XOUT           31             Passive
+Part : U?A
+     Pins - (Normal) : 50
           GPIO30         38             Passive
-          DVDD           51             Passive
           GPIO32         40             Passive
           GPIO31         39             Passive
           GPIO4          1              Passive
@@ -27,23 +22,6 @@ Part : U?
           GPIO12         11             Passive
           GPIO13         12             Passive
           GPIO14         13             Passive
-          ADC_AVDD       59             Passive
-          DVDD           10             Passive
-          DVDD           32             Passive
-          IOVDD          5              Passive
-          IOVDD          15             Passive
-          IOVDD          24             Passive
-          IOVDD          29             Passive
-          IOVDD          41             Passive
-          IOVDD          50             Passive
-          USB_OTP_VDD    68             Passive
-          SWDIO          34             Passive
-          QSPI_SCLK      71             Passive
-          QSPI_SD0       72             Passive
-          QSPI_SD1       74             Passive
-          QSPI_SD2       73             Passive
-          QSPI_SD3       70             Passive
-          QSPI_CSN       75             Passive
           USB_DM         66             Passive
           USB_DP         67             Passive
           GPIO15         14             Passive
@@ -61,8 +39,6 @@ Part : U?
           GPIO27         28             Passive
           GPIO28         36             Passive
           GPIO29         37             Passive
-          SWCLK          33             Passive
-          GND            81             Passive
           GPIO37         46             Passive
           GPIO34         43             Passive
           GPIO33         42             Passive
@@ -71,12 +47,8 @@ Part : U?
           GPIO1          78             Passive
           GPIO0          77             Passive
           GPIO40/ADC0    49             Passive
-          IOVDD          76             Passive
           GPIO46/ADC6    57             Passive
           GPIO38         47             Passive
-          VREG_FB        65             Passive
-          VREG_VIN       64             Passive
-          VREG_LX        63             Passive
           GPIO47/ADC7    58             Passive
           GPIO45/ADC5    56             Passive
           GPIO44/ADC4    55             Passive
@@ -86,6 +58,38 @@ Part : U?
           GPIO35         44             Passive
           GPIO39         48             Passive
           GPIO41/ADC1    52             Passive
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 31
+          QSPI_IOVDD     69             Passive
+          RUN            35             Passive
+          XIN            30             Passive
+          XOUT           31             Passive
+          DVDD           51             Passive
+          ADC_AVDD       59             Passive
+          DVDD           10             Passive
+          DVDD           32             Passive
+          IOVDD          5              Passive
+          IOVDD          29             Passive
+          IOVDD          15             Passive
+          IOVDD          24             Passive
+          IOVDD          41             Passive
+          IOVDD          50             Passive
+          USB_OTP_VDD    68             Passive
+          SWDIO          34             Passive
+          QSPI_SCLK      71             Passive
+          QSPI_SD0       72             Passive
+          QSPI_SD1       74             Passive
+          QSPI_SD2       73             Passive
+          QSPI_SD3       70             Passive
+          QSPI_CSN       75             Passive
+          SWCLK          33             Passive
+          GND            81             Passive
+          IOVDD          76             Passive
+          VREG_FB        65             Passive
+          VREG_VIN       64             Passive
+          VREG_LX        63             Passive
           IOVDD          60             Passive
           VREG_AVDD      61             Passive
           VREG_PGND      62             Passive
