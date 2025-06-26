@@ -1,0 +1,11 @@
+CSV text has been written to file : MCU.csv
+
+Library Component Count : 4
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+RP2040              ARM® Cortex®-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)
+RP2350B             Dual ARM Cortex M33 - Microcontroller IC 32-Bit 80-QFN (10x10)
+STM32F411RE         
+STM32G474RE         

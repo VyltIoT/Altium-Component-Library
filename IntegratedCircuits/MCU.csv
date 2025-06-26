@@ -1,0 +1,5 @@
+"LIBRARYREFERENCE","FOOTPRINT1","COMMENT","MANUFACTURER 1","MANUFACTURER PART NUMBER 1","PACKAGE","SUPPLIER 1","SUPPLIER PART NUMBER 1","VALUE","SHEETPART","DESIGNATOR","DESCRIPTION"
+"RP2040","QFN40P700X700X90-57N","","Raspberry Pi","RP2040","QFN56","*","*","*","*","U?","ARM® Cortex®-M0+ - Microcontroller IC 32-Bit Dual-Core 133MHz External Program Memory 56-QFN (7x7)"
+"RP2350B","QFN40P1000X1000X90_HS-81M","","Raspberry Pi","RP2040","QFN56","*","*","*","*","U?","Dual ARM Cortex M33 - Microcontroller IC 32-Bit 80-QFN (10x10)"
+"STM32F411RE","TSQFP50P1200X1200X160-64L","","*","*","*","*","*","*","*","U?",""
+"STM32G474RE","TSQFP50P1200X1200X160-64L","","*","*","*","*","*","*","*","U?",""
