@@ -1,0 +1,291 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+Protel PCB Library Report
+</title>
+</head>
+<body bgcolor="#FFFFFF">
+<font face="Arial" size="2">
+<h1>
+Protel PCB Library Report
+</h1>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Name
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\LIB\RF-IC\RF-IC.PcbLib
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Date/Time
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+28 August 2024 09:57:24
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library File Size
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+291840
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Components
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+2
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Component List
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+QFN40P700X700X106_HS-57N, RHB32_3P45X3P45_TEX
+</font>
+</td>
+</tr>
+</table>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="Qjz396C.wmf" width="256" height="253">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+QFN40P700X700X106_HS-57N
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+QFN, 56-Leads, Body 7.00x7.00mm, Pitch 0.40mm, Thermal Pad 4.00x4.00mm, IPC Medium Density
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+1.06mm
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+8.725mm x 8.25mm
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+57
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+94
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+<hr>
+<table border="0" cellspacing="0" cellpadding="4" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<img src="Qjz397D.wmf" width="256" height="255">
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Library Reference
+</b>
+</font>
+</td>
+<td valign="top">
+<h2>
+<font face="Arial" size="2">
+RHB32_3P45X3P45_TEX
+</font>
+</h2>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Description
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+&nbsp;
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Height
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+0mm
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Dimension
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+7.152mm x 7.152mm
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Pads
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+34
+</font>
+</td>
+</tr>
+<tr>
+<td valign="top" width="30%">
+<font face="Arial" size="2">
+<b>
+Number of Primitives
+</b>
+</font>
+</td>
+<td valign="top">
+<font face="Arial" size="2">
+141
+</font>
+</td>
+</tr>
+</table>
+</font>
+</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
