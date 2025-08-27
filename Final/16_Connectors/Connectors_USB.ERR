@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\Satyam.DESKTOP-S570OAU\Documents\GitHub\Altium-Component-Library\IntegratedLib\16_Connectors\Connectors_USB.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+GSB1CA11101DSHR     (Missing Pin Number In Sequence : A2,A3,A10,A11 [A1..A12]) 
