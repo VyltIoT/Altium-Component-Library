@@ -1,0 +1,14 @@
+Component   : PCBComponent_1
+PCB Library : Inductor.PcbLib
+Date        : 24-09-2025
+Time        : 04:37:57 PM
+
+
+
+Dimension : 2539.975 x 2539.975 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          1        0       0        0
+--------------------------------------------------------------------
+ Total                       0          1        0       0        0

@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\Satyam.DESKTOP-S570OAU\Documents\GitHub\Altium-Component-Library\IntegratedCircuits\RF_Transceiver.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+STM32WB05TN         (Missing Pin Number In Sequence : A3,A5 [A2..A6]) 
