@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\Satyam.DESKTOP-S570OAU\Documents\GitHub\Altium-Component-Library\IntegratedCircuits\MPU.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+RK3399              (Missing Pin Number In Sequence : AB3,AB4,AB5,AB6,AB7,AB25,AB26,AB27,AB28,AB29 [AB1..AB31]) 
