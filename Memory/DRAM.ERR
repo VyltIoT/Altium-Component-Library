@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\Administrator\Documents\GitHub\Altium-Component-Library\Memory\DRAM.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+MT53E512M32D1       (Missing Pin Number In Sequence : A6,A7 [A1..A12]) 
