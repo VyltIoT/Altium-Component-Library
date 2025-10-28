@@ -1,0 +1,8 @@
+Component Rule Check Report for : C:\Users\Satyam.DESKTOP-S570OAU\Documents\GitHub\Altium-Component-Library\Module\WirelessModule.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+E22-XXXT22S         (Missing Pin Number In Sequence : 9,10,17,18 [1..26]) 
+A7676E              (Duplicate Pin Number : Normal: 30, 31, 32, 33, 34) 
+                    (Missing Pin Number In Sequence : 2,3,4,10,13,14,15,17,20,21,126,139 [1..142]) 
