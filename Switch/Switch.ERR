@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\Satyam.DESKTOP-S570OAU\Documents\GitHub\Altium-Component-Library\Switch\Switch.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+XKB7070-Z           (Missing Pin Number In Sequence : 2 [1..6]) 
